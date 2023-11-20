@@ -1,0 +1,19 @@
+.userList{
+    margin: 15px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+ul li div{
+    width: 80px;
+    padding: 5px;
+}
+ul li div:nth-child(2){
+    width: 200px;
+}
